@@ -6,7 +6,7 @@ REST API для создания и управления заметками.
 
 - Python
 - FastAPI
-- SQLAlchemy 2.0
+- SQLAlchemy 2.1
 - Pydantic 2
 - SQLite
 - Alembic
